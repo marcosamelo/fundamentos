@@ -1,2 +1,2 @@
 # fundamentos
-curso basico javascript 
+Fundamentos basicos do  javascript 
